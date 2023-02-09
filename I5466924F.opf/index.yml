@@ -1,0 +1,51 @@
+id: f1f8f89144474d86914d64b8be713272
+annotation_type: index
+revision: '00001'
+annotations:
+  05c9a5b1f7b546da9ade3c4dc579517b:
+    base: 3161.txt
+    Chapters:
+    - title: Carmavastūddāna
+      span:
+        start: 0
+        end: 63
+    - title: Koṭikarṇa, born with a golden ring in his ear, visits the Preta world
+      span:
+        start: 64
+        end: 9931
+    - title: Why Koṭikarṇa was born with a golden ear-ring
+      span:
+        start: 9932
+        end: 11144
+    - title: Why Koṭikarṇa visits Hell
+      span:
+        start: 11145
+        end: 11198
+    - title: Various rules
+      span:
+        start: 11199
+        end: 12884
+    - title: Rājagṛhanidāna
+      span:
+        start: 12885
+        end: 15351
+    - title: Uddāna
+      span:
+        start: 15352
+        end: 17632
+    - title: Vaiśālyānidāna
+      span:
+        start: 17633
+        end: 18200
+    - title: Śrāvastyānidāna
+      span:
+        start: 18201
+        end: 18493
+    - title: Uddāna
+      span:
+        start: 18494
+        end: 18529
+    - title: Śrāvastyānidāna
+      span:
+        start: 18530
+        end: 19623

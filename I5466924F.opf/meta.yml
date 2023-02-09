@@ -1,0 +1,16 @@
+id: I5466924F
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:05:09.561915
+last_modified: 2023-02-09 15:05:09.562013
+source_metadata:
+  title: 'MSV 1,05: Carmavastu'
+  language: zh
+bases:
+  '3161':
+    base_file: 3161.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
